@@ -1,4 +1,4 @@
-# Summary statistics methods — practicals
+# Statistical Genetics — practicals
 
 Teaching practicals (Jupyter notebooks) for Statistical Genetics covering
 methods that work directly on **GWAS summary statistics**
