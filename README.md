@@ -1,11 +1,11 @@
 # Summary statistics methods — practicals
 
-Teaching practicals (Jupyter notebooks) for the **SMARTbiomed summer school**, covering
-statistical-genetics methods that work directly on **GWAS summary statistics**:
-heritability, genetic correlation, rare-variant association testing, and meta-analysis.
+Teaching practicals (Jupyter notebooks) for Statistical Genetics covering
+methods that work directly on **GWAS summary statistics**
+(heritability, genetic correlation), as well as rare-variant association testing, and meta-analysis.
 Each notebook runs on **Google Colab** — click its badge to open it. The emphasis is on
 understanding what the methods do *under the hood*, with open-ended challenge questions at
-the end of each practical and inline collapsible answers.
+the end of each practical.
 
 ## Practicals
 
